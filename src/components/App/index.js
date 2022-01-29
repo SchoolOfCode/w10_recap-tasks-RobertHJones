@@ -13,7 +13,9 @@ function App() {
         Log Out
       </button>
       {articles.map((item, index) => {
-        return <Article title={item.title} paragraph={item.paragraphs} />;
+        return (
+          <Article title={item.title} paragraph={item.paragraphs} key={index} />
+        );
       })}
       {/* <article className="post">
         <h2>{articles[0].title}</h2>
