@@ -1,0 +1,25 @@
+<mxfile host="65bd71144e">
+    <diagram id="BRr4eiA_RODlcMmY5YyB" name="Page-1">
+        <mxGraphModel dx="460" dy="577" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="3" value="&lt;font style=&quot;font-size: 22px&quot;&gt;Header&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="160" y="40" width="590" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="&lt;p style=&quot;line-height: 1.5&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;fontSize=22;align=center;" vertex="1" parent="1">
+                    <mxGeometry x="160" y="115" width="590" height="410" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="Button. State is liked or not" style="whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
+                    <mxGeometry x="260" y="280" width="140" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="Comments. Props are name and text" style="whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
+                    <mxGeometry x="190" y="360" width="290" height="150" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="Article. Props are title and paragraph." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=22;" vertex="1" parent="1">
+                    <mxGeometry x="250" y="160" width="380" height="30" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
