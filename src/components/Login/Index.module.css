@@ -1,0 +1,24 @@
+.loginPage {
+  background-color: rgb(166, 115, 214);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 700px;
+  border-radius: 2px solid black;
+  flex-wrap: nowrap;
+  display: block;
+}
+.header {
+  font-size: 4rem;
+  font-family: trebuchet;
+  display: block;
+}
+
+.button {
+  font-family: trebuchet;
+  background-color: black;
+  color: white;
+  transform: scale(4);
+  margin-left: 500px;
+  margin-top: 40px;
+}
