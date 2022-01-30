@@ -1,6 +1,6 @@
 import { useAuth0 } from "@auth0/auth0-react";
 import React from "react";
-import css from "./Index.module.css";
+import css from "./Login.module.css";
 
 const { loginPage, header, button } = css;
 
