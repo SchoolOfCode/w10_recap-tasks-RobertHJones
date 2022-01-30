@@ -1,10 +1,6 @@
-import css from "./Comments.module.css";
-
-const { comments } = css;
-
 function Comments({ name, text }) {
   return (
-    <div className={comments}>
+    <div>
       <h4>{name} says:</h4>
       <p>{text}</p>
     </div>
